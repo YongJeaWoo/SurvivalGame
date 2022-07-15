@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Objects
+  - Items
+  - Weapons
+  - Melee
+  - Walls
+  - BulletCheck
+  - Bullet
+  - Enemy
+  - EnemyBullet
+  - EnemyMelee
+  - Victory
+  - Boss
+  - Grass
+  - Tile
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Walls
+  - Ground
+  - Grenade
+  - Player
+  - Item
+  - Weapon
+  - NPC
+  - Victory
+  - 
+  - 
+  - 
+  - 
+  - Enemy
+  - EnemyDead
+  - EnemyBossDead
+  - 
+  - 
+  - 
+  - EnemyDamage
+  - EnemyBullet
+  - Bullet
+  - BulletCheck
+  - Border
+  - Objects
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
